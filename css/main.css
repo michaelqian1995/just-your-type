@@ -1,0 +1,31 @@
+html {
+  font-family: "Coda Caption", sans-serif;
+}
+
+.content {
+  padding: 12rem 1rem;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+.on {
+  color: #000;
+}
+
+.off {
+  color: yellow;
+}
+
+.font {
+  font-family: Monoton, cursive;
+}
+
+@media only screen and (min-width: 38em) {
+
+  body {
+    background: #000;
+  }
+
+}
